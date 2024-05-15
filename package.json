@@ -5,11 +5,14 @@
   "license": "MIT",
   "scripts": {
     "start": "node build/index",
-    "build": "tsc -p . ",
-    "dev": "tsc-watch --onSuccess \"npm run build && npm start\""
+    "build": "tsc -p .",
+    "dev": "tsc-watch --onSuccess \"npm start\""
   },
   "dependencies": {
     "@apollo/server": "^4.10.4",
+    "@middy/http-json-body-parser": "^5.3.4",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "graphql": "^16.8.1",
     "typescript": "^5.4.5"
