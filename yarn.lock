@@ -196,6 +196,11 @@
   resolved "https://registry.yarnpkg.com/@middy/util/-/util-5.3.4.tgz#87dedf8776d1bf04c2ebe4aa6192fee6375c9062"
   integrity sha512-TY1wlMb2Vdo+PRI0m0NNQdfVsrF1oqhOg5fz0oiA1mnExp2/T5isd/uG55DPEK++GprC1+OOkkJNFgMpRhBRrA==
 
+"@prisma/client@5.14.0":
+  version "5.14.0"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-5.14.0.tgz#dadca5bb1137ddcebb454bbdaf89423823d3363f"
+  integrity sha512-akMSuyvLKeoU4LeyBAUdThP/uhVP3GuLygFE3MlYzaCb3/J8SfsYBE5PkaFuLuVpLyA6sFoW+16z/aPhNAESqg==
+
 "@prisma/debug@5.14.0":
   version "5.14.0"
   resolved "https://registry.yarnpkg.com/@prisma/debug/-/debug-5.14.0.tgz#1227c705893c38284f7c63d72441480ebaa12605"
