@@ -18,6 +18,7 @@
     "typescript": "^5.4.5"
   },
   "devDependencies": {
+    "prisma": "^5.14.0",
     "tsc-watch": "^6.2.0"
   }
 }
